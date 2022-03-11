@@ -1,4 +1,5 @@
 {
   "folder": "inbox",
-  "format": "YYYYMMDDHHmm"
+  "format": "YYYYMMDDHHmm",
+  "template": "template/clipoard"
 }
