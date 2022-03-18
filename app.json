@@ -15,5 +15,6 @@
   "legacyEditor": false,
   "livePreview": false,
   "useMarkdownLinks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": ""
 }

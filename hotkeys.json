@@ -48,5 +48,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-key-sequence-shortcut:open-key-sequence-palette": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
   ]
 }
