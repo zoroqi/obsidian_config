@@ -25,14 +25,7 @@
     }
   ],
   "file-explorer:new-file": [],
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
+  "global-search:open": [],
   "insert-template": [
     {
       "modifiers": [
@@ -56,6 +49,23 @@
         "Ctrl"
       ],
       "key": "N"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette-file-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "command-palette:open": [],
+  "obsidian-better-command-palette:open-better-commmand-palette": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

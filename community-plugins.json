@@ -2,5 +2,8 @@
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "quick-explorer"
+  "obsidian-reveal-active-file",
+  "obsidian-better-command-palette",
+  "quick-explorer",
+  "quickadd"
 ]

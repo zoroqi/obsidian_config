@@ -1,0 +1,118 @@
+{
+  "choices": [
+    {
+      "id": "ed0a1bf5-7dbc-41bf-9505-e8fda8364665",
+      "name": "readblog",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/readblog.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YY-MM-DD-11}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "随记/blog"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "5287d309-ea93-4088-8b4d-cd8b0cb9a8a4",
+      "name": "clipoard",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/clipoard.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "clipboard"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "bd31472d-18da-4a31-a47b-18ad167caac4",
+      "name": "diary",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/diary.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YY-MM-DD-21}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "diary"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "7aa97acb-5920-42e1-863d-236c644449f1",
+      "name": "dailylist",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/dailylist.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "dailylist"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
