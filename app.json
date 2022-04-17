@@ -16,5 +16,8 @@
   "livePreview": false,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "./img",
+  "newFileLocation": "current",
+  "trashOption": "system",
+  "rightToLeft": false
 }

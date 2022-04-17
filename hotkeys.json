@@ -67,5 +67,7 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "workspace:edit-file-title": [],
+  "workspace:close": []
 }

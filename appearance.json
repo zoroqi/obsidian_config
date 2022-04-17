@@ -1,4 +1,9 @@
 {
   "theme": "moonstone",
-  "baseFontSize": 16
+  "baseFontSize": 24,
+  "interfaceFontFamily": "Monaco",
+  "textFontFamily": "Monaco",
+  "monospaceFontFamily": "Monaco",
+  "baseFontSizeAction": false,
+  "translucency": false
 }

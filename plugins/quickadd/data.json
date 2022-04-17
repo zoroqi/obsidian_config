@@ -111,6 +111,34 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "39e532d2-8ea0-451b-9060-052c42281110",
+      "name": "readbook",
+      "type": "Template",
+      "command": false,
+      "templatePath": "template/readbook.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Langeweile/reading-notes/book"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
     }
   ],
   "macros": [],
