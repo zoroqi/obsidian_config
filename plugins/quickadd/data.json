@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "ed0a1bf5-7dbc-41bf-9505-e8fda8364665",
-      "name": "readblog",
+      "name": "rblog",
       "type": "Template",
       "command": true,
       "templatePath": "template/readblog.md",
@@ -86,7 +86,7 @@
     },
     {
       "id": "7aa97acb-5920-42e1-863d-236c644449f1",
-      "name": "dailylist",
+      "name": "task",
       "type": "Template",
       "command": true,
       "templatePath": "template/dailylist.md",
@@ -136,6 +136,34 @@
         "enabled": false,
         "direction": "vertical",
         "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "ea0dbe47-b337-4b69-b902-332280a72b59",
+      "name": "reading",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/dailyreading.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "dailyreading"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
       },
       "openFile": true,
       "openFileInMode": "source"
