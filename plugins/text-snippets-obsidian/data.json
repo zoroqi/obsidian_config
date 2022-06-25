@@ -1,0 +1,16 @@
+{
+  "snippets_file": "w : [word::$end$]\nph : [pharse::$end$]\nred : [related::$end$]",
+  "snippets": [
+    "w : [word::$end$]",
+    "ph : [pharse::$end$]",
+    "red : [related::$end$]"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

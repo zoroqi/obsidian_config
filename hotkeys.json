@@ -51,14 +51,6 @@
       "key": "N"
     }
   ],
-  "obsidian-better-command-palette:open-better-commmand-palette-file-search": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "command-palette:open": [],
   "obsidian-better-command-palette:open-better-commmand-palette": [
     {
@@ -69,5 +61,29 @@
     }
   ],
   "workspace:edit-file-title": [],
-  "workspace:close": []
+  "workspace:close": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette-file-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "O"
+    }
+  ]
 }

@@ -167,8 +167,64 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "1924d0a1-e878-47ae-8045-daa51c4ed6f4",
+      "name": "def",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/defaultTemplate.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "16c7f755-8c00-4934-9afd-1272f6780560",
+      "name": "english",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/english.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "study/english"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
-  "inputPrompt": "single-line"
+  "inputPrompt": "multi-line"
 }
