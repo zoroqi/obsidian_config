@@ -8,13 +8,11 @@
       "templatePath": "template/readblog.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YY-MM-DD-11}}"
+        "format": "/随记/blog/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YY-MM-DD-11}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "随记/blog"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -36,13 +34,11 @@
       "templatePath": "template/clipoard.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmm}}"
+        "format": "/clipboard/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "clipboard"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -64,13 +60,11 @@
       "templatePath": "template/diary.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YY-MM-DD-21}}"
+        "format": "/diary/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YY-MM-DD-21}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "diary"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -92,13 +86,11 @@
       "templatePath": "template/dailylist.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmm}}"
+        "format": "/dailylist/daily/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "dailylist"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -148,13 +140,11 @@
       "templatePath": "template/dailyreading.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmm}}"
+        "format": "/dailyreading/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "dailyreading"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -176,13 +166,11 @@
       "templatePath": "template/defaultTemplate.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmm}}"
+        "format": "/inbox/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "inbox"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -204,13 +192,11 @@
       "templatePath": "template/english.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:YYYYMMDDHHmm}}"
+        "format": "/study/english/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "study/english"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false
       },
@@ -223,8 +209,30 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "a78a2db1-59d2-4a8c-adb9-fffc0706b986",
+      "name": "ra",
+      "type": "Macro",
+      "command": false,
+      "macroId": "b2f905ba-3aa1-4a89-9849-d06db2781b60"
     }
   ],
-  "macros": [],
-  "inputPrompt": "multi-line"
+  "macros": [
+    {
+      "name": "randomuuid",
+      "id": "b2f905ba-3aa1-4a89-9849-d06db2781b60",
+      "commands": [
+        {
+          "name": "random",
+          "type": "UserScript",
+          "id": "f92ee68a-7d75-4fdc-b9d5-81487282687a",
+          "path": "template/random.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
 }

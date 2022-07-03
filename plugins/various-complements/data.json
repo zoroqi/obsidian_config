@@ -1,0 +1,135 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 1,
+  "maxNumberOfWordsAsPhrase": 4,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "第二主题是信息的保留": {
+      "第二主题是信息的保留": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656766160699
+        }
+      }
+    },
+    "fastcode 低代码平台": {
+      "202205051426": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1656766224587
+        }
+      }
+    },
+    "20220216012738_oLgprI7HEeyUDDvIfASLNw": {
+      "20220216012738_oLgprI7HEeyUDDvIfASLNw": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1656766227475
+        }
+      }
+    },
+    "弱者的武器": {
+      "弱者的武器": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1656766284643
+        }
+      }
+    },
+    "encodedData": {
+      "encodedData": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656767154231
+        }
+      }
+    },
+    "100天后死去的鳄鱼": {
+      "100天后死去的鳄鱼": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1656767427907
+        }
+      }
+    },
+    "randomUUID": {
+      "randomUUID": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656774978812
+        }
+      }
+    },
+    "tonight": {
+      "tonight": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656830728960
+        }
+      }
+    },
+    "thought": {
+      "thought": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656831041431
+        }
+      }
+    },
+    "meets": {
+      "meets": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656830990324
+        }
+      }
+    },
+    "Oss-cn-shanghai-shga-d01-a": {
+      "Oss-cn-shanghai-shga-d01-a": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656856922701
+        }
+      }
+    }
+  }
+}
