@@ -1,10 +1,11 @@
 {
-  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nred : [related::$end$]\narc : [archive]($end$)",
+  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nred : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]",
   "snippets": [
     "w : [word::$end$] ``",
     "ph : [pharse::$end$]",
     "red : [related::$end$]",
-    "arc : [archive]($end$)"
+    "arc : [archive]($end$)",
+    "note : > [!NOTE]"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

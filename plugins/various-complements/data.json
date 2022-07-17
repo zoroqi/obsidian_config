@@ -14,14 +14,14 @@
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
   "propagateEsc": false,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
-  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "onlyComplementEnglishOnCurrentFileComplement": true,
   "enableCurrentVaultComplement": false,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
@@ -128,6 +128,274 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1656856922701
+        }
+      }
+    },
+    "pounds": {
+      "pounds": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656916418268
+        }
+      }
+    },
+    "recognize": {
+      "recognize": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656916542133
+        }
+      }
+    },
+    "entertain": {
+      "entertain": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656917531498
+        }
+      }
+    },
+    "bored": {
+      "bored": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656917606529
+        }
+      }
+    },
+    "task": {
+      "task": {
+        "frontMatter": {
+          "count": 7,
+          "lastUpdated": 1657109534544
+        }
+      }
+    },
+    "obsidian": {
+      "obsidian": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1656942423125
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656942739629
+        }
+      }
+    },
+    "https://github.com/webrtc": {
+      "https://github.com/webrtc": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1656942337021
+        }
+      }
+    },
+    "Macro": {
+      "Macro": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656942541319
+        }
+      }
+    },
+    "macro": {
+      "macro": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656942931311
+        }
+      }
+    },
+    "start": {
+      "start": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656943103797
+        }
+      }
+    },
+    "groupcache": {
+      "groupcache": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1656944137756
+        }
+      }
+    },
+    "archive": {
+      "archive": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1657094060394
+        }
+      }
+    },
+    "加密": {
+      "加密": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657026154070
+        }
+      }
+    },
+    "安全": {
+      "安全": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657026159648
+        }
+      }
+    },
+    "gitlog": {
+      "gitlog": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657026162315
+        }
+      }
+    },
+    "看纸质书/电纸书，而不是社会化读书": {
+      "22-03-18-11": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1657032174376
+        }
+      }
+    },
+    "provided": {
+      "provided": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657088169094
+        }
+      }
+    },
+    "https://webrtc.org/": {
+      "https://webrtc.org/": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657093716847
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657111618529
+        }
+      }
+    },
+    "Println": {
+      "Println": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1657111697108
+        }
+      }
+    },
+    "manioc": {
+      "manioc": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657111901528
+        }
+      }
+    },
+    "insta": {
+      "insta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657112872328
+        }
+      }
+    },
+    "instance": {
+      "instance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1657113037055
+        }
+      }
+    },
+    "resolve": {
+      "resolve": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657112953221
+        }
+      }
+    },
+    "resolveContext": {
+      "resolveContext": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657112955218
+        }
+      }
+    },
+    "register": {
+      "register": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657113274968
+        }
+      }
+    },
+    "newStruct": {
+      "newStruct": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657113464238
+        }
+      }
+    },
+    "inject": {
+      "inject": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657113468810
+        }
+      }
+    },
+    "character/冯宝宝": {
+      "character/冯宝宝": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1657116511665
+        }
+      }
+    },
+    "laughed": {
+      "laughed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657174180518
+        }
+      }
+    },
+    "cheered": {
+      "cheered": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1657174244712
+        }
+      }
+    },
+    "20220705145833": {
+      "20220705145833": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1657196611601
+        }
+      }
+    },
+    "calendar": {
+      "calendar": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1657197914102
         }
       }
     }

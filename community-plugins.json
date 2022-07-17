@@ -1,13 +1,13 @@
 [
-  "obsidian-mind-map",
-  "obsidian-excalidraw-plugin",
   "obsidian-reveal-active-file",
-  "obsidian-better-command-palette",
   "quick-explorer",
   "quickadd",
   "dataview",
   "obsidian-collapse-all-plugin",
   "obsidian-quiet-outline",
   "text-snippets-obsidian",
-  "various-complements"
+  "tag-wrangler",
+  "obsidian-excalidraw-plugin",
+  "excalibrain",
+  "obsidian-better-command-palette"
 ]

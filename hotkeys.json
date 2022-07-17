@@ -34,14 +34,6 @@
       "key": "X"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "M"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-key-sequence-shortcut:open-key-sequence-palette": [
     {
@@ -84,6 +76,15 @@
         "Ctrl"
       ],
       "key": "O"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
     }
   ]
 }

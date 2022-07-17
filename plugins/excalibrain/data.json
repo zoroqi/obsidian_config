@@ -1,0 +1,184 @@
+{
+  "excalibrainFilepath": "excalibrain.md",
+  "hierarchy": {
+    "parents": [
+      "Parent",
+      "Parents",
+      "u",
+      "up"
+    ],
+    "children": [
+      "Child",
+      "Children",
+      "d",
+      "down"
+    ],
+    "friends": [
+      "Friend",
+      "Friends",
+      "j",
+      "Jump",
+      "Jumps"
+    ]
+  },
+  "inferAllLinksAsFriends": false,
+  "renderAlias": true,
+  "nodeTitleScript": "",
+  "backgroundColor": "#0c3e6aff",
+  "excludeFilepaths": [],
+  "showInferredNodes": true,
+  "showAttachments": true,
+  "showVirtualNodes": true,
+  "showFolderNodes": false,
+  "showTagNodes": true,
+  "showPageNodes": true,
+  "maxItemCount": 50,
+  "renderSiblings": true,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#00000000",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 30,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#C49A13FF",
+    "textColor": "#000000ff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "prefix": "📎 "
+  },
+  "folderNodeStyle": {
+    "prefix": "📂 ",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "prefix": "#",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "baseLinkStyle": {
+    "strokeColor": "#696969FF",
+    "strokeWidth": 2,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none",
+    "showLabel": false,
+    "fontSize": 10,
+    "fontFamily": 3,
+    "textColor": "#ffffffff"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {
+    "Parent": {},
+    "Parents": {},
+    "u": {},
+    "up": {},
+    "Child": {},
+    "Children": {},
+    "d": {},
+    "down": {},
+    "Friend": {},
+    "Friends": {},
+    "j": {},
+    "Jump": {},
+    "Jumps": {}
+  },
+  "navigationHistory": [
+    "stupid-self/lc/q800/814-binary-tree-pruning.md",
+    "learn/other/零知识证明.md",
+    "learn/haskell/haskell的monad.md",
+    "learn/haskell/haskell函数.md",
+    "随记/blog/22/2207/22-07-09-11.md",
+    "随记/blog/22/2207/22-07-11-11.md",
+    "随记/blog/22/2207/22-07-05-11.md",
+    "随记/blog/22/2207/22-07-03-11.md",
+    "随记/blog/22/2205/22-05-04-11.md",
+    "随记/blog/22/2202/22-02-18-11.md",
+    "随记/blog/22/2205/22-05-01-11.md",
+    "随记/blog/22/2202/22-02-13-11.md",
+    "随记/blog/22/2202/22-02-23-11.md",
+    "随记/blog/22/2205/22-05-03-11.md",
+    "dailylist/daily/2022/07/20220711132701.md",
+    "learn/antlr/antlr学习资料.md",
+    "learn/特殊知识/设计模式.md",
+    "diary/21/2112/21-12-21-21.md",
+    "hacker-laws-zh/split/conways_law.md",
+    "stupid-self/lc/q800/824-goat-latin.md",
+    "study/english/2022/07/20220703143151.md",
+    "learn/具体原则/SOLID.md",
+    "learn/特殊知识/gossip.md",
+    "Langeweile/reading-notes/book/2022/茶馆.md",
+    "tag:茶馆",
+    "clipboard/2022/06/202206232137.md",
+    "Langeweile/reading-notes/comics/2019/蟹工船.md",
+    "./comics/2019/未来世界",
+    "Excalidraw/ExcaliBrain Snapshot - 22-07-11-21.excalidraw.md",
+    "Excalidraw/ExcaliBrain Snapshot - 22-07-11-21_0.excalidraw.md",
+    "diary/22/2207/22-07-11-21.md",
+    "tag:GTD",
+    "dailyreading/2022/07/20220712144112.md",
+    "随记/blog/22/2207/22-07-12-11.md",
+    "diary/22/2207/22-07-12-21.md",
+    "Langeweile/think/other/2020/10/AlphaGo的随想.md",
+    "tag:golang/option",
+    "inbox/2022/07/20220712213219.md",
+    "inbox/2022/07/20220713150828.md",
+    "dailyreading/2022/07/20220713144624.md",
+    "Langeweile/think/other/2022/07/更强大的信息茧房.md",
+    "随记/blog/22/2207/22-07-14-11.md",
+    "dailyreading/2022/07/20220714162658.md",
+    "diary/22/2207/22-07-14-21.md",
+    "随记/blog/22/2205/22-05-11-11.md",
+    "inbox/2022/07/20220715143617.md",
+    "dailyreading/2022/07/20220715085248.md",
+    "随记/blog/22/2207/22-07-16-11.md",
+    "随记/blog/22/2206/22-06-22-11.md",
+    "随记/blog/22/2207/22-07-17-11.md",
+    "hypothesis/202106/20210609042030_BpCJNsjaEeuj-o_epzO2Vw.md"
+  ],
+  "allowOntologySuggester": true,
+  "ontologySuggesterParentTrigger": "::p",
+  "ontologySuggesterChildTrigger": "::c",
+  "ontologySuggesterFriendTrigger": "::f"
+}
