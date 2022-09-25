@@ -8,33 +8,7 @@
       "templatePath": "template/readblog.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "/随记/blog/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YY-MM-DD-11}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "source"
-    },
-    {
-      "id": "5287d309-ea93-4088-8b4d-cd8b0cb9a8a4",
-      "name": "clipoard",
-      "type": "Template",
-      "command": true,
-      "templatePath": "template/clipoard.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "/clipboard/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
+        "format": "/dailyreading/blog/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YYYY-MM-DD-11}}"
       },
       "folder": {
         "enabled": true,
@@ -60,7 +34,7 @@
       "templatePath": "template/diary.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "/diary/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YY-MM-DD-21}}"
+        "format": "/diary/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YYYY-MM-DD-21}}"
       },
       "folder": {
         "enabled": true,
@@ -216,6 +190,58 @@
       "type": "Macro",
       "command": false,
       "macroId": "b2f905ba-3aa1-4a89-9849-d06db2781b60"
+    },
+    {
+      "id": "5d6ee77d-e73e-4bd3-8c18-698172998b4b",
+      "name": "gist",
+      "type": "Template",
+      "command": true,
+      "templatePath": "KuZuTeTuMaChi/template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/KuZuTeTuMaChi/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "1e11eee8-f007-4e6a-965c-30069c72235f",
+      "name": "paper",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/paper.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/dailyreading/paper/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [

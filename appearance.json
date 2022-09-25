@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
   "baseFontSize": 21,
-  "interfaceFontFamily": "Monaco",
-  "textFontFamily": "Monaco",
-  "monospaceFontFamily": "Monaco",
+  "interfaceFontFamily": "InconsolataGo",
+  "textFontFamily": "InconsolataGo",
+  "monospaceFontFamily": "InconsolataGo",
   "baseFontSizeAction": false,
   "translucency": false
 }

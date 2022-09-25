@@ -10,6 +10,8 @@
   "createNewFileMod": "Shift",
   "createNewPaneMod": "Mod",
   "hiddenCommands": [],
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "learn/特殊知识/反面模式"
+  ],
   "hiddenTags": []
 }

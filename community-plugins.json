@@ -6,8 +6,9 @@
   "obsidian-collapse-all-plugin",
   "obsidian-quiet-outline",
   "text-snippets-obsidian",
-  "tag-wrangler",
   "obsidian-excalidraw-plugin",
   "excalibrain",
-  "obsidian-better-command-palette"
+  "obsidian-better-command-palette",
+  "tag-wrangler",
+  "sliding-panes-obsidian"
 ]
