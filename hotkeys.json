@@ -15,7 +15,6 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": [],
   "daily-notes": [
     {
       "modifiers": [
@@ -25,7 +24,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "global-search:open": [],
   "insert-template": [
     {
       "modifiers": [
@@ -62,14 +60,6 @@
       "key": "L"
     }
   ],
-  "obsidian-better-command-palette:open-better-commmand-palette-file-search": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "text-snippets-obsidian:text-snippets": [
     {
       "modifiers": [
@@ -79,14 +69,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -101,6 +83,50 @@
         "Ctrl"
       ],
       "key": "I"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-bold": [],
+  "editor:delete-paragraph": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-another-quick-switcher:header-search-in-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
+    }
+  ],
+  "obsidian-another-quick-switcher:search-command_landmark-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }

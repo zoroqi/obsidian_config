@@ -1,5 +1,5 @@
 {
-  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nred : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [timecost::] ",
+  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nred : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [timecost::fast]  [eisen::0]  \nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::website]  [tt::]\ntt : [tt::$end$]",
   "snippets": [
     "w : [word::$end$] ``",
     "ph : [pharse::$end$]",
@@ -7,7 +7,10 @@
     "arc : [archive]($end$)",
     "note : > [!NOTE]",
     "top : [topic::$end$]",
-    "tas : [level::$end$]  [timecost::] "
+    "tas : [level::$end$]  [timecost::fast]  [eisen::0]  ",
+    "red : [reading::$end$skip]  [quality::0]  [author::]",
+    "redt : [reading::$end$skip]  [quality::0]  [author::website]  [tt::]",
+    "tt : [tt::$end$]"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

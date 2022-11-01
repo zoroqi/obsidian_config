@@ -242,6 +242,32 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "f4fbd5e8-2b8b-4359-82dc-6783b5e3596a",
+      "name": "weekly",
+      "type": "Template",
+      "command": false,
+      "templatePath": "template/weekly.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/diary/{{DATE:YY}}/weekly/{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
     }
   ],
   "macros": [

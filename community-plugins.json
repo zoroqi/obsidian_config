@@ -1,14 +1,15 @@
 [
   "obsidian-reveal-active-file",
-  "quick-explorer",
   "quickadd",
   "dataview",
-  "obsidian-collapse-all-plugin",
   "obsidian-quiet-outline",
   "text-snippets-obsidian",
   "obsidian-excalidraw-plugin",
   "excalibrain",
   "obsidian-better-command-palette",
   "tag-wrangler",
-  "sliding-panes-obsidian"
+  "quick-explorer",
+  "obsidian-footnotes",
+  "pane-relief",
+  "obsidian-another-quick-switcher"
 ]

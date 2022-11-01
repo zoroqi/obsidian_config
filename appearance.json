@@ -1,9 +1,13 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 21,
   "interfaceFontFamily": "InconsolataGo",
   "textFontFamily": "InconsolataGo",
   "monospaceFontFamily": "InconsolataGo",
   "baseFontSizeAction": false,
-  "translucency": false
+  "translucency": false,
+  "accentColor": "",
+  "nativeMenus": false,
+  "cssTheme": "Obsidian Nord Enhanced",
+  "showViewHeader": true
 }

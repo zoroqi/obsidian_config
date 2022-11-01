@@ -19,5 +19,7 @@
   "attachmentFolderPath": "./img",
   "newFileLocation": "current",
   "trashOption": "system",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "readableLineLength": true,
+  "showInlineTitle": true
 }
