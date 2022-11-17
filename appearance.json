@@ -1,6 +1,6 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 21,
+  "baseFontSize": 20,
   "interfaceFontFamily": "InconsolataGo",
   "textFontFamily": "InconsolataGo",
   "monospaceFontFamily": "InconsolataGo",
@@ -8,6 +8,6 @@
   "translucency": false,
   "accentColor": "",
   "nativeMenus": false,
-  "cssTheme": "Obsidian Nord Enhanced",
+  "cssTheme": "Things",
   "showViewHeader": true
 }

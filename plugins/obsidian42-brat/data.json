@@ -1,7 +1,5 @@
 {
   "pluginList": [
-    "marcusolsson/obsidian-projects",
-    "sytone/obsidian-tasks-x",
     "blacksmithgu/obsidian-dataview"
   ],
   "pluginSubListFrozenVersion": [],

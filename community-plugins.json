@@ -1,7 +1,6 @@
 [
   "obsidian-reveal-active-file",
   "quickadd",
-  "dataview",
   "obsidian-quiet-outline",
   "text-snippets-obsidian",
   "obsidian-excalidraw-plugin",
@@ -11,5 +10,6 @@
   "quick-explorer",
   "obsidian-footnotes",
   "pane-relief",
-  "obsidian-another-quick-switcher"
+  "obsidian-another-quick-switcher",
+  "dataview"
 ]
