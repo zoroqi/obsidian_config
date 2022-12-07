@@ -51,15 +51,6 @@
     }
   ],
   "workspace:edit-file-title": [],
-  "workspace:close": [],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "text-snippets-obsidian:text-snippets": [
     {
       "modifiers": [
@@ -119,6 +110,31 @@
         "Mod"
       ],
       "key": "F12"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "X"
     }
   ],
   "obsidian-another-quick-switcher:search-command_landmark-search": [

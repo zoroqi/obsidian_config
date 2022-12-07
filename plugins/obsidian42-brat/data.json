@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "mottox2/obsidian-relation-pane",
     "blacksmithgu/obsidian-dataview"
   ],
   "pluginSubListFrozenVersion": [],

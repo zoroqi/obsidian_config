@@ -21,7 +21,7 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
-        "focus": true
+        "focus": false
       },
       "openFile": true,
       "openFileInMode": "source"
@@ -47,7 +47,7 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
-        "focus": true
+        "focus": false
       },
       "openFile": true,
       "openFileInMode": "source"
@@ -153,7 +153,7 @@
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
-        "focus": true
+        "focus": false
       },
       "openFile": true,
       "openFileInMode": "default"
@@ -268,6 +268,13 @@
       },
       "openFile": true,
       "openFileInMode": "default"
+    },
+    {
+      "id": "41b6a797-4b7c-4daa-aec8-aa15c6a29dcc",
+      "name": "linkparse",
+      "type": "Macro",
+      "command": false,
+      "macroId": "08e0b9de-4190-4d00-b4af-b87d59548ba8"
     }
   ],
   "macros": [
@@ -284,7 +291,22 @@
         }
       ],
       "runOnStartup": true
+    },
+    {
+      "name": "linkparse",
+      "id": "08e0b9de-4190-4d00-b4af-b87d59548ba8",
+      "commands": [
+        {
+          "name": "linkparse",
+          "type": "UserScript",
+          "id": "aef02aec-aab2-4f58-92a9-169108d4bba9",
+          "path": "template/linkparse.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": true
     }
   ],
-  "inputPrompt": "single-line"
+  "inputPrompt": "single-line",
+  "devMode": false
 }

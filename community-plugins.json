@@ -1,6 +1,4 @@
 [
-  "obsidian-reveal-active-file",
-  "quickadd",
   "obsidian-quiet-outline",
   "text-snippets-obsidian",
   "obsidian-excalidraw-plugin",
@@ -8,8 +6,12 @@
   "obsidian-better-command-palette",
   "tag-wrangler",
   "quick-explorer",
-  "obsidian-footnotes",
   "pane-relief",
   "obsidian-another-quick-switcher",
-  "dataview"
+  "dataview",
+  "obsidian-relation-pane",
+  "quickadd",
+  "obsidian-footnotes",
+  "obsidian42-strange-new-worlds",
+  "reveal-active-file-button"
 ]
