@@ -186,7 +186,7 @@
     },
     {
       "id": "a78a2db1-59d2-4a8c-adb9-fffc0706b986",
-      "name": "ra",
+      "name": "specialField",
       "type": "Macro",
       "command": false,
       "macroId": "b2f905ba-3aa1-4a89-9849-d06db2781b60"
@@ -279,14 +279,14 @@
   ],
   "macros": [
     {
-      "name": "randomuuid",
+      "name": "specialField",
       "id": "b2f905ba-3aa1-4a89-9849-d06db2781b60",
       "commands": [
         {
-          "name": "random",
+          "name": "specialField",
           "type": "UserScript",
-          "id": "f92ee68a-7d75-4fdc-b9d5-81487282687a",
-          "path": "template/random.js",
+          "id": "2274b5d3-3f72-4a25-a8cc-41247aa35688",
+          "path": "template/specialField.js",
           "settings": {}
         }
       ],
