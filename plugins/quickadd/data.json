@@ -8,7 +8,7 @@
       "templatePath": "template/readblog.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "/dailyreading/blog/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YYYY-MM-DD-11}}"
+        "format": "/dailyreading/blog/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYY-MM-DD-11}}"
       },
       "folder": {
         "enabled": true,
@@ -34,7 +34,7 @@
       "templatePath": "template/diary.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "/diary/{{DATE:YY}}/{{DATE:YYMM}}/{{DATE:YYYY-MM-DD-21}}"
+        "format": "/diary/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYY-MM-DD-21}}"
       },
       "folder": {
         "enabled": true,
@@ -251,7 +251,7 @@
       "templatePath": "template/weekly.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "/diary/{{DATE:YY}}/weekly/{{DATE:YYYYMMDDHHmmss}}"
+        "format": "/diary/{{DATE:YYYY}}/weekly/{{DATE:YYYYMMDDHHmmss}}"
       },
       "folder": {
         "enabled": false,
@@ -275,6 +275,39 @@
       "type": "Macro",
       "command": false,
       "macroId": "08e0b9de-4190-4d00-b4af-b87d59548ba8"
+    },
+    {
+      "id": "caaa5157-6039-4d72-85b4-e800ad18ca57",
+      "name": "bubbles",
+      "type": "Template",
+      "command": true,
+      "templatePath": "bubbles/bubble-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/bubbles/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "99a7f55f-ecd0-403b-b995-9eea33fe65fa",
+      "name": "dailylistcorn",
+      "type": "Macro",
+      "command": false,
+      "macroId": "31961c89-e4c7-4e0d-95ef-8b8e8d3d23eb"
     }
   ],
   "macros": [
@@ -305,6 +338,20 @@
         }
       ],
       "runOnStartup": true
+    },
+    {
+      "name": "dailylistcorn",
+      "id": "31961c89-e4c7-4e0d-95ef-8b8e8d3d23eb",
+      "commands": [
+        {
+          "name": "cron",
+          "type": "UserScript",
+          "id": "21f35f61-78ce-4514-9efd-6a4d95a19e45",
+          "path": "template/cron.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",

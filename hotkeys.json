@@ -24,14 +24,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "X"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-key-sequence-shortcut:open-key-sequence-palette": [
     {
@@ -41,7 +33,6 @@
       "key": "N"
     }
   ],
-  "command-palette:open": [],
   "obsidian-better-command-palette:open-better-commmand-palette": [
     {
       "modifiers": [
@@ -77,8 +68,6 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "editor:toggle-bold": [],
-  "editor:delete-paragraph": [],
   "file-explorer:open": [
     {
       "modifiers": [
@@ -136,5 +125,8 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "editor:toggle-bold": [],
+  "command-palette:open": [],
+  "editor:delete-paragraph": []
 }
