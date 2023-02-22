@@ -20,6 +20,7 @@
   "newFileLocation": "current",
   "trashOption": "system",
   "rightToLeft": false,
-  "readableLineLength": true,
-  "showInlineTitle": true
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "showIndentGuide": true
 }
