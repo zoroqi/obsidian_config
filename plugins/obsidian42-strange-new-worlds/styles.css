@@ -9,7 +9,7 @@ body {
     border-radius: var(--radius-s);
     border: var(--border-width) dotted;
     vertical-align: top;
-    opacity: var(--snw-counter-opacity);
+    /* opacity: var(--snw-counter-opacity); */
     min-width: 10px;
     padding-left: 3px;
     padding-right: 3px !important;
