@@ -1,10 +1,10 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 21,
   "interfaceFontFamily": "InconsolataGo",
   "textFontFamily": "InconsolataGo",
   "monospaceFontFamily": "InconsolataGo",
-  "baseFontSizeAction": false,
+  "baseFontSizeAction": true,
   "translucency": false,
   "accentColor": "",
   "nativeMenus": false,

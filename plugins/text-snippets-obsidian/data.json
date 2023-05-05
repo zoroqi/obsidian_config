@@ -1,5 +1,5 @@
 {
-  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nrel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [timecost::fast]  [eisen::0]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]",
+  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nrel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [timecost::fast]  [eisen::0]  [deadline::+day]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]\nto : [tomato::$end$]\ndead : [deadline::+$end$day]",
   "snippets": [
     "w : [word::$end$] ``",
     "ph : [pharse::$end$]",
@@ -7,10 +7,12 @@
     "arc : [archive]($end$)",
     "note : > [!NOTE]",
     "top : [topic::$end$]",
-    "tas : [level::$end$]  [timecost::fast]  [eisen::0]",
+    "tas : [level::$end$]  [timecost::fast]  [eisen::0]  [deadline::+day]",
     "red : [reading::$end$skip]  [quality::0]  [author::]",
     "redt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]",
-    "tt : [tt::$end$]"
+    "tt : [tt::$end$]",
+    "to : [tomato::$end$]",
+    "dead : [deadline::+$end$day]"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

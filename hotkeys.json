@@ -128,5 +128,33 @@
   ],
   "editor:toggle-bold": [],
   "command-palette:open": [],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "nldates-obsidian:nlp-date-clean": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
 }

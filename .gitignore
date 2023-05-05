@@ -4,3 +4,4 @@ workspace
 graph.json
 starred.json
 plugins/excalibrain/data.json
+bookmarks.json

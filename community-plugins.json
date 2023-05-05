@@ -8,11 +8,13 @@
   "quick-explorer",
   "pane-relief",
   "obsidian-another-quick-switcher",
-  "dataview",
   "obsidian-relation-pane",
   "quickadd",
   "obsidian-footnotes",
   "reveal-active-file-button",
   "obsidian-fuzzytag",
-  "obsidian42-strange-new-worlds"
+  "obsidian42-strange-new-worlds",
+  "tag-summary-plugin",
+  "nldates-obsidian",
+  "dataview"
 ]
