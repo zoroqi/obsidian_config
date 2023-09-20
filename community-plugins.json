@@ -6,15 +6,15 @@
   "obsidian-better-command-palette",
   "tag-wrangler",
   "quick-explorer",
-  "pane-relief",
   "obsidian-another-quick-switcher",
-  "obsidian-relation-pane",
   "quickadd",
   "obsidian-footnotes",
-  "reveal-active-file-button",
   "obsidian-fuzzytag",
-  "obsidian42-strange-new-worlds",
   "tag-summary-plugin",
   "nldates-obsidian",
-  "dataview"
+  "reveal-active-file-button",
+  "obsidian42-strange-new-worlds",
+  "pane-relief",
+  "dataview",
+  "obsidian-relation-pane"
 ]

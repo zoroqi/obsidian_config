@@ -319,6 +319,61 @@
       "type": "Macro",
       "command": false,
       "macroId": "31961c89-e4c7-4e0d-95ef-8b8e8d3d23eb"
+    },
+    {
+      "id": "5d5c4cad-374c-4517-b89d-3b7bef2f23bb",
+      "name": "tagstemplate",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/tagsTp.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/tags/{{DATE:YYYY}}/{{DATE:MM}}/{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "afa81d9e-3a64-4f95-9dc7-5bbd902a5de0",
+      "name": "ai-generated-template",
+      "type": "Template",
+      "command": true,
+      "templatePath": "ai-generated/template",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "/ai-generated/tmp/{{DATE:YYYY}}/AIGC{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [
@@ -369,7 +424,7 @@
   "devMode": false,
   "templateFolderPath": "template",
   "announceUpdates": true,
-  "version": "1.0.2",
+  "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",

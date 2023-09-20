@@ -1,5 +1,5 @@
 {
-  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nrel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [eisen::0]  [deadline::+day]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]\nto : [tomato::$end$]\ndead : [deadline::+$end$day]\ndis : [distract::$end$]",
+  "snippets_file": "w : [word::$end$] ``\nph : [pharse::$end$]\nrel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ntop : [topic::$end$]\ntas : [level::$end$]  [eisen::0]  [deadline::+day]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]\nto : [tomato::$end$]\ndead : [deadline::+$end$day]\ndis : [distract::$end$]\nkbk : [kb::key]\nkba : [kb::alone]\nkbp : [kb::progress]",
   "snippets": [
     "w : [word::$end$] ``",
     "ph : [pharse::$end$]",
@@ -13,7 +13,10 @@
     "tt : [tt::$end$]",
     "to : [tomato::$end$]",
     "dead : [deadline::+$end$day]",
-    "dis : [distract::$end$]"
+    "dis : [distract::$end$]",
+    "kbk : [kb::key]",
+    "kba : [kb::alone]",
+    "kbp : [kb::progress]"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
