@@ -16,5 +16,8 @@
   "enableRenderingBlockIdInLivePreview": true,
   "enableRenderingLinksInLivePreview": true,
   "enableRenderingHeadersInLivePreview": true,
-  "enableRenderingEmbedsInLivePreview": true
+  "enableRenderingEmbedsInLivePreview": true,
+  "enableIgnoreObsExcludeFoldersLinksFrom": false,
+  "enableIgnoreObsExcludeFoldersLinksTo": false,
+  "requireModifierKeyToActivateSNWView": true
 }
