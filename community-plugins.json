@@ -5,7 +5,6 @@
   "excalibrain",
   "obsidian-better-command-palette",
   "tag-wrangler",
-  "quick-explorer",
   "obsidian-another-quick-switcher",
   "quickadd",
   "obsidian-footnotes",
@@ -14,7 +13,8 @@
   "nldates-obsidian",
   "obsidian42-strange-new-worlds",
   "dataview",
-  "reveal-active-file-button",
   "pane-relief",
+  "reveal-active-file-button",
+  "quick-explorer",
   "obsidian-relation-pane"
 ]
