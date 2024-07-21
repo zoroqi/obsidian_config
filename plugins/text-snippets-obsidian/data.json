@@ -1,9 +1,10 @@
 {
-  "snippets_file": "rel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\ndig : > [!digression]\ntop : [topic::$end$]\ntas : [level::$end$]  [eisen::0]  [deadline::+7day]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]\nto : [tomato::$end$]\ndead : [deadline::+$end$day]\ndis : [distract::$end$]\nkbk : [kb::key]\nkba : [kb::alone]\nkbp : [kb::progress]",
+  "snippets_file": "rel : [related::$end$]\narc : [archive]($end$)\nnote : > [!NOTE]\nquote : > [!QUOTE]\ndig : > [!digression]\ntop : [topic::$end$]\ntas : [level::$end$]  [eisen::0]  [deadline::+7day]\nred : [reading::$end$skip]  [quality::0]  [author::]\nredt : [reading::$end$skip]  [quality::0]  [author::/website]  [tt::随笔]\ntt : [tt::$end$]\nto : [tomato::$end$]\ndead : [deadline::+$end$day]\ndis : [distract::$end$]\nkbk : [kb::key]\nkba : [kb::alone]\nkbp : [kb::progress]",
   "snippets": [
     "rel : [related::$end$]",
     "arc : [archive]($end$)",
     "note : > [!NOTE]",
+    "quote : > [!QUOTE]",
     "dig : > [!digression]",
     "top : [topic::$end$]",
     "tas : [level::$end$]  [eisen::0]  [deadline::+7day]",
