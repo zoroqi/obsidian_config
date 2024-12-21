@@ -1,5 +1,4 @@
 [
-  "obsidian-quiet-outline",
   "text-snippets-obsidian",
   "obsidian-excalidraw-plugin",
   "excalibrain",
@@ -10,10 +9,11 @@
   "obsidian-fuzzytag",
   "tag-summary-plugin",
   "nldates-obsidian",
-  "obsidian42-strange-new-worlds",
-  "dataview",
   "reveal-active-file-button",
   "quick-explorer",
+  "obsidian-quiet-outline",
+  "dataview",
+  "obsidian42-strange-new-worlds",
   "pane-relief",
   "obsidian-relation-pane"
 ]
